@@ -1,5 +1,9 @@
 # Stats-131
-
+(
+Anika Yoo, 
+Lisa Song, 
+Shien Ding
+)
 # For video presentation
 
 ## youtube version
